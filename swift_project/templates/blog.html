@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Blog Swift</title>
+
+  <link rel="stylesheet" href="{% static 'css/materialize.css' %}">
+  <link rel="stylesheet" href="{% static 'css/estilo.css' %}">
+
+
+  <!-- jQuery library (served from Google) -->
+    <script src="{% static 'js/jquery-1.11.3.js' %}"></script>
+<!-- bxSlider Javascript file -->
+<script src="{% static 'js/jquery.bxslider.min.js' %}"></script>
+<!-- bxSlider CSS file -->
+<link href="{% static 'js/jquery.bxslider.css' %}" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+
+    <body>
+        
+  <div class="topo">
+            <div class="conteudo_topo">
+            <a href="blog.asp"><img id="logo_topo" src="{% static 'images/logo.png' %}"></a>
+            <img id="cel_topo" src="{% static 'images/cel_topo.png' %}">
+
+            <div class="topoMenu">
+                <input type="checkbox" name="togle" id="togle" style="
+    /* display: none; */
+">
+                <label id="togleMenu" for="togle"></label>
+
+
+            <nav id="menu">
+                <ul>
+
+                    {%for i in cat%}
+                    <li><a href="">{{i.name}}</a></li>
+                    {%endfor%}
+
+                </ul>
+            </nav>
+            </div>
+
+
+            <div>
+            <p class="txt_postagens_home">Novo Aplicativo SWIFT.</p>
+            <p class="txt_postagens_home">Pensou, t? feito!</p>
+            </div>
+
+                <a href="rss.asp"><div class="rss">
+                <img src="{% static 'images/rss.png' %}">
+
+                    <h5>Receba nossas</h5>
+                    <h5>novidades</h5>
+                </div>    </a>
+
+            </div>
+        </div>
+
+
+
+        <div class="container">
+           <div class="col s12 center banner">
+               <div class="caroseul">
+
+                   <p><span>Novo aplicativo Swift.</span> Pensou, tá feito!<p>
+
+
+
+                    <ul class="bxslider">
+
+
+                      {%for slideItem in banner%}
+                      <li><div class="slide"><a href="javascript:void(0)"><img class="" src="{{slideItem.image.url}}"></a></div></li>
+                      {%endfor%}
+
+
+                      </ul>
+
+                    <h6>OUTRAS FUNÇÕES</h6>
+
+               </div>
+
+           </div>
+
+        </div>
+
+        
+        
+        <div class="container">
+        
+           
+        </div>
+        <div class="container postagens_home">
+            
+             <div class="row">
+            
+                <div class="row">
+                    <div class="col s12 m5 l6 center">
+                    <img class="img_ultima_post" src="{% static 'images/ultimas_postagemHome.jpg' %}">
+                    </div>    
+               </div>
+        
+            </div>
+            {% for item in post%}
+            <a href="/blog/{{item.urlAmigavel}}">
+            <div class="row txt1">
+              
+            <div class="col s12 m5 l4 "><img width="254" src="{{item.image.url}}"></div>
+            <div class="col s12 m5 l8 ">
+            <div class="comentario">
+                <p class="txt1titulo">{{item.category}}</p>
+                <p>{{item.name}}</p>
+                <p>{{item.created_at}}</p>
+                <p>{{item.subcontent}}</p>
+            </div> 
+               
+            </div>
+            <img class="img_borda_home" src="{% static 'images/dividirHOME.jpg' %}">
+            </div>
+                </a>
+            {%endfor%}
+        </div>
+        
+        <div class="section">
+            <div class="container postagens_home">
+            {%for v in video%}
+                <div class="row">
+            <div class="col s12 m12 l5 video">
+            <!--<img class="videomax" src="{% static 'images/video.jpg' %}">-->
+                <iframe width="420" height="250" src="{{v.url}}"></iframe>
+            </div>
+            <div class="col s12 m12 l7 ">
+                <div class="comentario max">
+                <p>Video</p>
+                <p>{{v.name}}</p>
+                <p>{{v.created_at}}</p>
+                <p>{{v.desc}}</p>
+            </div>    
+            </div>
+              
+            </div>
+                {%endfor%}
+            </div>    
+        </div>
+        
+        <div class="footer">
+        
+        <img class="cel_footer" src="{% static 'images/cel_topo.png' %}">
+        <img class="logo_footer" src="{% static 'images/logo_rodape.png' %}">
+            <div class="txt_footer">
+                <p>Simples, prático</p>
+                <p>e pensado para ajudar</p>
+                <p>você com apenas um toque.</p>
+                <p>Copyright © 2015 Swift Mercado da Carne.</p>
+            </div>    
+        <img class="google_play" src="{% static 'images/google_play.png' %}">
+        <img class="itunes" src="{% static 'images/itunes.png' %}">
+            
+            
+        <h1 class="txt_responsivo_footer">DISPONÍVEL COMO SWIFT MERCADO DA CARNE EM:</h1>
+            
+        <img class="btn_footer_g" src="{% static 'images/bt-google-footer.png' %}">
+        <img class="btn_footer_i" src="{% static 'images/bt-loja-apple.png' %}">
+        </div>
+
+
+     </body>
+    <script>
+    $('.bxslider').bxSlider({
+  minSlides: 1,
+  maxSlides: 5,
+  slideWidth: 322,
+  slideMargin: 10
+});
+    
+    </script>
+    
+</html>

@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ec10f0f-fcfa-4800-af36-f7ef178525b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img01_KCaydKg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img02_yvR3cge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/img03_l24TKRP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/imgGrandeInterna_xYZk0tD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blog/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/blog_submenu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img01_KCaydKg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img02_yvR3cge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/img03_l24TKRP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/imgGrandeInterna_xYZk0tD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/media/blog/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/blog_submenu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBE-LightCn.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBE-LightCn.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBE-LightCn.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBE-LightCn.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Cnd.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Cnd.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Cnd.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Cnd.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-CndIt.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-CndIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-CndIt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-CndIt.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Italic.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Reg.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Reg.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Reg.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Reg.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/Times Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/Times-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/Times-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/Times-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/bg_topo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/blog_submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/bt-google-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/bt-loja-apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/cel_topo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/dividirHOME.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/dividirInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/google_play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/grupo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/grupo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/grupo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/img01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/img02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/img03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/imgGrandeInterna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/logo_rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/maispost.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/princiapal1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/princiapal3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/princiapl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/receitas_titulo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/rede_social_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/rede_social_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/rede_social_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/rodape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/slide_caro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/ultimasPOST.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/ultimas_postagemHome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/images/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/swift.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/migrations/0002_banner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/migrations/0003_video.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/migrations/0004_auto_20160807_1249.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/swift.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/migrations/0002_banner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/migrations/0003_video.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/migrations/0004_auto_20160807_1249.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/blog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/css/modeniz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBE-LightCn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Cnd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-CndIt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/AkzidenzGroteskBQ-Reg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/fonts/Times-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/js/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/js/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/static/js/jquery.bxslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/swift/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/templates/blog-noticia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swift_project/templates/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/blog-noticia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/blog.html" />
+    </list>
+    <ignored path="swift.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="swift" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swift/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2091">
+              <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swift/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="e#1#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/static/css/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28169">
+              <caret line="1657" column="1" selection-start-line="1657" selection-start-column="1" selection-end-line="1657" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="109" column="45" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-noticia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog-noticia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/swift/settings.py" />
+        <option value="$PROJECT_DIR$/swift/urls.py" />
+        <option value="$PROJECT_DIR$/static/css/estilo.css" />
+        <option value="$PROJECT_DIR$/static/css/materialize.css" />
+        <option value="$PROJECT_DIR$/blog/static/css/estilo.css" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/templates/blog.html" />
+        <option value="$PROJECT_DIR$/templates/blog-noticia.html" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\daniel\Desktop\swift_project\media" />
+      <recent name="C:\Users\daniel\Desktop\swift_project" />
+      <recent name="C:\Users\daniel\Desktop\swift" />
+      <recent name="C:\Users\daniel\Desktop\swift\blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daniel\Desktop\swift\swift" />
+      <recent name="C:\Users\daniel\Desktop\swift\blog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="swift" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec10f0f-fcfa-4800-af36-f7ef178525b1" name="Default" comment="" />
+      <created>1470517088551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470517088551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/swift/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28169">
+          <caret line="1657" column="1" selection-start-line="1657" selection-start-column="1" selection-end-line="1657" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="109" column="45" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog-noticia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="55" selection-start-line="112" selection-start-column="55" selection-end-line="112" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog-noticia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift/static/js/jquery-1.11.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/js/jquery-1.11.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/templates/blog.html" />
+    <entry file="file://$PROJECT_DIR$/swift/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="8425" column="0" selection-start-line="8425" selection-start-column="0" selection-end-line="8425" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="1658" column="0" selection-start-line="1658" selection-start-column="0" selection-end-line="1658" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#1#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28169">
+          <caret line="1657" column="1" selection-start-line="1657" selection-start-column="1" selection-end-line="1657" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="109" column="45" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog-noticia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

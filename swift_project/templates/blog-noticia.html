@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Blog Swift</title>
+
+  <link rel="stylesheet" href="{% static 'css/materialize.css' %}">
+  <link rel="stylesheet" href="{% static 'css/estilo.css' %}">
+
+
+  <!-- jQuery library (served from Google) -->
+    <script src="{% static 'js/jquery-1.11.3.js' %}"></script>
+<!-- bxSlider Javascript file -->
+<script src="{% static 'js/jquery.bxslider.min.js' %}"></script>
+<!-- bxSlider CSS file -->
+<link href="{% static 'js/jquery.bxslider.css' %}" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+    <body>
+        
+         <div class="topo">
+            <div class="conteudo_topo">
+            <a href="/blog"><img id="logo_topo" src="{% static 'images/logo.png' %}"></a>
+            <img id="cel_topo" src="{% static 'images/cel_topo.png' %}">
+             
+            <div>    
+            <p class="txt_postagens_home">Novo Aplicativo SWIFT.</p>
+            <p class="txt_postagens_home">Pensou, tá feito!</p>
+            </div>
+                
+                <div class="rss">
+                <img src="{% static 'images/rss.png' %}">
+                    <h5>Receba nossas</h5>
+                    <h5>novidades</h5>
+                </div>    
+                
+            </div>    
+        </div>
+        <div class="section">
+        <div class="container">
+        
+            <div class="row center divreceitas">
+
+            <div class="col s12 m12 12 center">
+
+                <div class="txt_receitas_topo">
+                    {%for item in by_post%}
+                <!--<img id="img_topo_receita" src="{% static 'images/receitas_titulo.png' %}">-->
+                <p class="tituloCategoriaPost">{{item.category}}</p>
+                <div class="txt_receita1">
+                    <p>{{item.name}}</p>
+                    <p></p>
+                    <p>{{item.created_at}}</p>
+                </div>
+                     {%endfor%}
+                <div class="rede_social">
+                    <img src="{% static 'images/rede_social_03.png' %}">
+                    <img src="{% static 'images/rede_social_05.png' %}">
+                    <img src="{% static 'images/rede_social_07.png' %}">
+                </div>
+                </div>
+
+            </div>
+
+            
+            
+                
+            
+            </div>
+        
+        </div>
+       </div> 
+        <div class="section">
+        <div class="container">
+            
+            
+        
+            
+          <div class="row">
+             {%for itemDesc in by_post%}
+            <div class="col s12 m12 l9 center">
+                
+            <img class="max-img" src="{{itemDesc.image.url}}">
+            <img class="max-img" src="{% static 'images/dividirInterna.jpg' %}">
+            <div class="row">    
+            <div class="col s12 m12 l12 center">
+            <div class="txt_postmais">    
+            <p>{{itemDesc.content}}</p>
+                </div> 
+                </div>
+                </div>
+            </div>
+              {%endfor%}
+            <div class="col s12 m12 l3 center posrelative left_left">
+                <img class="imgMaisPost" src="{% static 'images/maispost.jpg' %}">
+                
+                    {%for post in post%}
+                    <a href="/blog/{{post.urlAmigavel}}">
+                    <div class="col s12 m6 l12 left maispostleft">
+                        <img width="254" src="{{post.image.url}}">
+                        <p>{{post.name}}</p>
+
+                    </div>
+                    </a>
+                    {%endfor%}
+              
+            </div>
+            
+              
+          </div>
+            
+        </div>
+        </div> 
+        
+        <div class="footer">
+        
+        <img class="cel_footer" src="{% static 'images/cel_topo.png' %}">
+        <img class="logo_footer" src="{% static 'images/logo_rodape.png' %}">
+            <div class="txt_footer">
+                <p>Simples, prático</p>
+                <p>e pensado para ajudar</p>
+                <p>você com apenas um toque.</p>
+                <p>Copyright © 2015 Swift Mercado da Carne.</p>
+            </div>    
+        <img class="google_play" src="{% static 'images/google_play.png' %}">
+        <img class="itunes" src="{% static 'images/itunes.png' %}">
+            
+            <h1 class="txt_responsivo_footer">DISPONÍVEL COMO SWIFT MERCADO DA CARNE EM:</h1>
+            <img class="btn_footer_g" src="{% static 'images/bt-google-footer.png' %}">
+            <img class="btn_footer_i" src="{% static 'images/bt-loja-apple.png' %}">
+            
+        </div>
+    </body>
+
+</html>
